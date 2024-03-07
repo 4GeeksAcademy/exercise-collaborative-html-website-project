@@ -1,3 +1,17 @@
 body{
     background: #BDBDBD;
 }
+
+.hero {
+    background-image: url("https://fastly.picsum.photos/id/13/2500/1667.jpg?hmac=SoX9UoHhN8HyklRA4A3vcCWJMVtiBXUg0W4ljWTor7s");
+    background-size: cover;
+    min-height: 600px;
+}
+
+.textSize{
+    font-size: 100px;
+}
+
+.textSize2{
+    font-size: 60px;
+}
